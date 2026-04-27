@@ -8,13 +8,6 @@ A clean, responsive **React.js** weather website that lets users search any city
 
 ---
 
-## 🌍 Demo
-
-<!-- Add a screenshot of the app showing weather for a city -->
-![App Screenshot](screenshots/demo.png)
-
----
-
 ## ✨ Features
 
 - **Live city search** — type any city in the world and instantly fetch its current weather
